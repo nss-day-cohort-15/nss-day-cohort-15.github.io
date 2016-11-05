@@ -1,0 +1,11 @@
+{
+  "name": "nss-cohort-15-website",
+  "version": "1.0.0",
+  "main": "script.js",
+  "authors": [
+  "Elizabeth Sanger", "Debbie Bourne", "Thomas Shavor", "Zachary Repass" ],
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
