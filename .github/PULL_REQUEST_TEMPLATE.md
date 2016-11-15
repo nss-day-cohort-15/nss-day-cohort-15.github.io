@@ -1,3 +1,5 @@
+_Once a pull request is submitted, be sure to assign necessary people for review_
+
 ## Status
 **READY/IN DEVELOPMENT**
 
