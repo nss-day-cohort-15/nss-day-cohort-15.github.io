@@ -2,3 +2,4 @@ bower_components
 node_modules
 .Ds_Store
 .github
+/.DS_Stores

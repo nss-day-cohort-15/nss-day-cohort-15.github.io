@@ -10,13 +10,22 @@
       "personalityPic": ""
     },
     {
-      "name": "NameMe",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
+      "name": "Matt Kraatz",
+      "githubLink": "https://github.com/MattKraatz",
+      "portfolioLink": "http://MattKraatz.com",
+      "linkedInLink": "https://www.linkedin.com/in/MattKraatz",
+      "aboutMe": "Part genre-agnostic music enthusiast, part business intelligence nerd, I left a successful career in sales operations to join NSS and haven't looked back since.",
        "professionalPic": "",
       "personalityPic": ""
+    },
+    {
+      "name": "Garrett Vangilder",
+      "githubLink": "https://github.com/garrett-vangilder",
+      "portfolioLink": "http://garrett-vangilder.com",
+      "linkedInLink": "https://www.linkedin.com/in/garrett-vangilder-1769a797",
+      "aboutMe": "I love learning about how technology is used to make the world a better place. In my spare time I enjoy watching football, eating Indian food, and losing at boardgames.",
+       "professionalPic": ":)",
+      "personalityPic": "( ͡° ͜ʖ ͡°)"
     },
     {
       "name": "NameMe",
@@ -28,29 +37,20 @@
       "personalityPic": ""
     },
     {
-      "name": "NameMe",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
+      "name": "Matt Hamil",
+      "githubLink": "https://github.com/matthamil",
+      "portfolioLink": "https://matthamil.me",
+      "linkedInLink": "https://www.linkedin.com/in/matthamil",
+      "aboutMe": "Loose-leaf tea connoisseur, purveyor of Bash scripts to automate workflow. I love learning about UX design and machine learning. I live for helping other newer developers experience those \"Ahah!\" moments.",
        "professionalPic": "",
       "personalityPic": ""
     },
     {
-      "name": "NameMe",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
-       "professionalPic": "",
-      "personalityPic": ""
-    },
-    {
-      "name": "NameMe",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
+      "name": "Casey Reed",
+      "githubLink": "https://github.com/caseywreed",
+      "portfolioLink": "http://casey-reed.com",
+      "linkedInLink": "https://www.linkedin.com/in/casey-reed-35164612b",
+      "aboutMe": "Nashville-based developer with an eye for UI/UX, clean code, whiteboard teaching, and rare vinyl records from the 1980s.",
        "professionalPic": "",
       "personalityPic": ""
     },
