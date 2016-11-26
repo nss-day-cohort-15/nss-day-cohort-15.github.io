@@ -1,3 +1,59 @@
 h2 {
-    text-align: center;
+  text-align: center;
+}
+
+.background-photo-box {
+  text-align: center;
+}
+
+.background-photo-box img {
+  width: 100%;
+}
+
+/* CARD STYLING */
+.members-area {
+  text-align: center;
+}
+
+.card-action {
+  padding: 20px 10px;
+}
+
+.card-action .row {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  height: 24px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.card-action a, .card-action i, .card-action img {
+  display: inline-block;
+  max-height: 24px;
+  vertical-align: middle;
+  padding: 0 5px;
+  margin-right: 0px !important;
+  color: black;
+}
+
+/* TECHNOLOGY STYLING */
+.tech-box .col {
+  font-size: 0;
+  text-align: center;
+  display: inline-block;
+  height: 120px;
+  margin-top: 30px !important;
+}
+
+.center-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.tech-img {
+  max-width: 98%;
+  max-height: 100%;
+  vertical-align: middle;
 }
