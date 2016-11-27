@@ -43,13 +43,13 @@ function generateCards(peopleArr) {
                  "<h3>" + person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1] + "</h3>" +
                  "<hr>" +
                  "<div class='tile--icons'>" +
-                     "<a href='" + person.githubLink + "'>" +
+                     "<a href='" + person.githubLink + "' target='_blank'>" +
                          "<img src='img/logo/Github.svg' alt='Github'/>" +
                      "</a>" +
-                     "<a href='" + person.linkedInLink + "'>" +
+                     "<a href='" + person.linkedInLink + "' target='_blank'>" +
                          "<img src='img/icon/linkedin.svg' alt='Linkedin'/>" +
                      "</a>" +
-                     "<a href='" + person.portfolioLink + "'>" +
+                     "<a href='" + person.portfolioLink + "' target='_blank'>" +
                          "<img src='img/icon/globe.svg' alt='Personal Website'/>" +
                      "</a>" +
                    "</div>" +
