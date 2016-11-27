@@ -1,2 +1,5 @@
 bower_components
-/.DS_Store
+node_modules
+.Ds_Store
+.github
+/.DS_Stores
