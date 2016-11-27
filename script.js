@@ -40,7 +40,7 @@ function generateCards(peopleArr) {
     domString += "<div class='col-xs-12 col-md-4 col-lg-3 person-tile'>" +
                  "<img src='" + /* Replace this with professional pic --> */ generatePlaceholderAvatar(i) +
                     "' alt='" + person.name + "''>" +
-                 "<h3>" + person.name + "</h3>" +
+                 "<h3>" + person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1] + "</h3>" +
                  "<hr>" +
                  "<div class='tile--icons'>" +
                      "<a href='" + person.githubLink + "'>" +
