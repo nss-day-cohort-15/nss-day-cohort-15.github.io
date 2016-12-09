@@ -165,6 +165,16 @@
       "personalityPic": ""
     },
     {
+      "name": "Dayne Wright",
+      "githubLink": "https://github.com/daynewright",
+      "portfolioLink": "http://dayne.me",
+      "linkedInLink": "https://www.linkedin.com/in/wrightdayne",
+      "aboutMe": "I am a Nashville native that started exploring software development while working in project management at a few startups. I discovered that I love the logic, problem solving and challenge involved and have not turned back!",
+
+       "professionalPic": "",
+      "personalityPic": ""
+    },
+    {
       "name": "Jacob Keen",
       "githubLink": "https://github.com/jaclkeen",
       "portfolioLink": "https://jaclkeen.github.io/",
@@ -192,20 +202,11 @@
       "personalityPic": ""
     },
     {
-      "name": "Name Me",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
-       "professionalPic": "",
-      "personalityPic": ""
-    },
-    {
-      "name": "Name Me",
-      "githubLink": "https://github.com",
-      "portfolioLink": "radportfolio",
-      "linkedInLink": "https://www.linkedin.com/",
-      "aboutMe": "blahblahblahcoding",
+      "name": "Jammy Laird",
+      "githubLink": "https://github.com/lairdhousedhold",
+      "portfolioLink": "https://www.jammylaird.com",
+      "linkedInLink": "https://www.linkedin.com/in/jammy-laird-2116a1125",
+      "aboutMe": "I believe coding can solve the problems of the world through common sense innovation...Pancakes ",
        "professionalPic": "",
       "personalityPic": ""
     },
