@@ -38,7 +38,7 @@ $(document).ready(function () {
 
   function generateCards(peopleArr) {
     return peopleArr.reduce(function(domString, person, i) {
-      domString += "<div class='col-xs-12 col-md-4 col-lg-3 person-tile'>" +
+      domString += "<div class='col-sm-6 col-md-4 col-lg-3 person-tile'>" +
                    "<div class='image-container'>" +
                       "<img class='person-image' src='" + /* Replace this with professional pic --> */ generatePlaceholderAvatar(i) +
                         "' alt='" + person.name + "''>" +
