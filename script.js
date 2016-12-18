@@ -40,7 +40,7 @@ $(document).ready(function () {
                         "' alt='" + person.name + "''>" +
                       "<div class='person-bio'><span>" + person.aboutMe + "</span></div>" +
                    "</div>" +
-                   "<h3>" + person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1] + "</h3>" +
+                   "<h3>" + person.name.split(" ")[0] + " " + person.name.split(" ")[1] + " " + person.name.split(" ")[2] + "</h3>" +
                    "<hr>" +
                    "<div class='tile--icons'>" +
                        "<a href='" + person.githubLink + "' target='_blank'>" +
