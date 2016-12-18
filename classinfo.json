@@ -6,8 +6,8 @@
       "portfolioLink": "",
       "linkedInLink": "https://www.linkedin.com/in//grantregnier",
       "aboutMe": "I'm a motivated and young developer with a particular interest in C# and .NET looking for opportunity. Amateur apologist and theologian.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0363_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0347_T.jpg"
     },
     {
       "name": "Matt Kraatz",
@@ -15,8 +15,8 @@
       "portfolioLink": "http://MattKraatz.com",
       "linkedInLink": "https://www.linkedin.com/in/MattKraatz",
       "aboutMe": "Part genre-agnostic music enthusiast, part business intelligence nerd, I left a successful career in sales operations to join NSS and haven't looked back since.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0251_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0241_T.jpg"
     },
     {
       "name": "Garrett Vangilder",
@@ -24,8 +24,8 @@
       "portfolioLink": "http://garrett-vangilder.com",
       "linkedInLink": "https://www.linkedin.com/in/garrett-vangilder-1769a797",
       "aboutMe": "I love learning about how technology is used to make the world a better place. In my spare time I enjoy watching football, eating Indian food, and losing at boardgames.",
-      "professionalPic": ":)",
-      "personalityPic": "( ͡° ͜ʖ ͡°)"
+      "professionalPic": "img/pic/2016_11_29_C15_0402_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0381_T.jpg"
     },
     {
       "name": "Elizabeth Sanger",
@@ -33,8 +33,8 @@
       "portfolioLink": "https://estorms.github.io",
       "linkedInLink": "https://www.linkedin.com/in/elizabeth-sanger-36659628",
       "aboutMe": "Former English professor and forever feline apologist, I'm obsessed by the intersection between language and meaning and passionate about development as a means to strengthen communities.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0010_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0017_T.jpg"
     },
     {
       "name": "Matt Hamil",
@@ -42,8 +42,8 @@
       "portfolioLink": "https://matthamil.me",
       "linkedInLink": "https://www.linkedin.com/in/matthamil",
       "aboutMe": "Loose-leaf tea connoisseur, purveyor of Bash scripts to automate workflow. I love learning about UX design and machine learning. I live for helping other newer developers experience those \"Ahah!\" moments.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0113_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0100_T.jpg"
     },
     {
       "name": "Casey Reed",
@@ -51,8 +51,8 @@
       "portfolioLink": "http://casey-reed.com",
       "linkedInLink": "https://www.linkedin.com/in/casey-reed-35164612b",
       "aboutMe": "Nashville-based developer with an eye for UI/UX, clean code, whiteboard teaching, and rare vinyl records from the 1980s.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0428_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0413_T.jpg"
     },
     {
       "name": "Charles (Jamie) Duke",
@@ -60,8 +60,8 @@
       "portfolioLink": "http://jamsduke.com",
       "linkedInLink": "https://www.linkedin.com/in/jamsduke",
       "aboutMe": "Arizona transplant with a love for all things green and arboreal. Formerly employed by a home healthcare company, I came to NSS to magnify my interests in crafting technology.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0032_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0041_T.jpg"
     },
     {
       "name": "Chris Smalley",
@@ -69,8 +69,8 @@
       "portfolioLink": "https://www.chrismsmalley.com",
       "linkedInLink": "https://www.linkedin.com/in/chrismsmalley",
       "aboutMe": "Creative yet analytical developer with an MBA. Besides long walks on the beach and candlelit dinners, I enjoy UI/UX design, scholarly research, and actually like CSS.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0203_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0177_T.jpg"
     },
     {
       "name": "Thomas (Thom) Shavor",
@@ -78,8 +78,8 @@
       "portfolioLink": "http://www.thomshavor.com",
       "linkedInLink": "https://www.linkedin.com/in/thomshavor",
       "aboutMe": "Health care epidemiologist and NOLA transplant who enjoys experiencing the world through music and photography.  Love understanding how stuff works, and try to learn something new each day ",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0162_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0156_T.jpg"
     },
     {
       "name": "David Yunker",
@@ -87,8 +87,8 @@
       "portfolioLink": "https://davidyunker.github.io/",
       "linkedInLink": "www.linkedin.com/in/david-yunker",
       "aboutMe": "I’m a news junkie and former journalist who’s driven to always find the answer and to solve problems. In my spare time, I'm driven to find quality beer, quality shows and quality time with my cats.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0465_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0457_T.jpg"
     },
     {
       "name": "Debbie Bourne",
@@ -96,18 +96,17 @@
       "portfolioLink": "http://www.debbiebourne.me",
       "linkedInLink": "https://www.linkedin.com/in/debbie-bourne-7a54a1105",
       "aboutMe": "With a background in Psychology and historic site administration, I'm fascinated by how technology improves our lives. I want to build apps that help us be better people.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0522_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0488_T.jpg"
     },
     {
-
       "name": "Meg Ducharme",
       "githubLink": "https://github.com/megducharme",
       "portfolioLink": "https://www.megducharme.com",
       "linkedInLink": "https://www.linkedin.com/in/megducharme",
       "aboutMe": "Software has played an instrumental role in helping me start a company, teach, manage construction projects, and stay in touch with friends. With these experiences, coupled with my new understanding of front & back end technologies, I’m excited to empower others through software!",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0287_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0272_T.jpg"
     },
     {
       "name": "Zack Repass",
@@ -115,18 +114,17 @@
       "portfolioLink": "https://www.zackrepass.com",
       "linkedInLink": "https://www.linkedin.com/in/zack-repass-517b1420",
       "aboutMe": "A native Nashvillian with a big picture mindset excited by new ideas and the possibilities presented to us by new tools and technologies. With a desire to build people up, I am excited to join an industry that can inspire people through technology to be their best self.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0636_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0663_T.jpg"
     },
     {
-
       "name": "Anulfo Ordaz",
       "githubLink": "https://github.com/Anulfo",
       "portfolioLink": "https://anulfo.me",
       "linkedInLink": "https://www.linkedin.com/in/anulfo-ordaz-431993120",
       "aboutMe": "I'm former Venezuelan surgeon with a strong inclination for Software Development. Service to others is the only way to improve society, being true to that ideal is my motivation",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0573_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0596_T.jpg"
     },
     {
       "name": "Edgar Barajas",
@@ -134,8 +132,8 @@
       "portfolioLink": "http://edgarbarajas.com",
       "linkedInLink": "https://www.linkedin.com/in/edgar-barajas-interlink3d",
       "aboutMe": "Approach life with a student mentality and the aspiration of one day becoming the teacher is my MO. I consider myself a well rounded individual who can hold my own in any environment I am thrown into.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0230_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0212_T.jpg"
     },
     {
       "name": "Yonatan Molla",
@@ -143,28 +141,26 @@
       "portfolioLink": "https://www.yonata.com",
       "linkedInLink": "www.linkedin.com/in/yonatan-molla-15a77598",
       "aboutMe": "A former Agro-Mechanization Engineer becoming a Software Developer Excited by new technologies.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0307_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0309_T.jpg"
     },
     {
-
       "name": "Delaine Wendling",
       "githubLink": "https://github.com/delainewendling",
       "portfolioLink": "http://delainewendling.com",
       "linkedInLink": "https://www.linkedin.com/in/delaine-wendling-3336392b",
       "aboutMe": "I love software development because there is always a problem to be solved. I get excited about software that helps make the world a better place, used bookstores, and climbing mountains.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0051_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0060_T.jpg"
     },
     {
-
       "name": "Fletcher Bangs Watson VI",
       "githubLink": "https://github.com/flawavi",
       "portfolioLink": "http://fletcherbangs.me",
       "linkedInLink": "https://www.linkedin.com/in/fletcherbangs",
       "aboutMe": "As a Nashville native, I want to combine my skills as a developer with my natural abilities to speak, write and network to make Nashville the jewel of the south. That might mean putting up with me listening to Steely Dan and disco while I code.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0558_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0534_T.jpg"
     },
     {
       "name": "Dayne Wright",
@@ -172,8 +168,8 @@
       "portfolioLink": "http://dayne.me",
       "linkedInLink": "https://www.linkedin.com/in/wrightdayne",
       "aboutMe": "I am a Nashville native that started exploring software development while working in project management at a few startups. I discovered that I love the logic, problem solving and challenge involved and have not turned back!",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0142_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0127_T.jpg"
     },
     {
       "name": "Jacob Keen",
@@ -181,8 +177,8 @@
       "portfolioLink": "https://jaclkeen.github.io/",
       "linkedInLink": "https://www.linkedin.com/in/jacob-keen-293a27111",
       "aboutMe": "A former college student with a love for building things and problem solving. In my free time, I enjoy all things sports and building amazing software.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0324_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0328_T.jpg"
     },
     {
       "name": "Elliott Williams",
@@ -190,8 +186,8 @@
       "portfolioLink": "elliottwilliams.me",
       "linkedInLink": "https://www.linkedin.com/in/elliott-williams",
       "aboutMe": "I'm just a human who enjoys technology and the way it is reshaping our world; I couldn't be more excited to contribute to the process. I enjoy learning and can become fascinated by anything. Travel, books, and podcasts are my favorite mediums of satisfying my curiosity.",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0667_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0691_T.jpg"
     },
     {
       "name": "Jammy Laird",
@@ -199,8 +195,8 @@
       "portfolioLink": "https://www.jammylaird.com",
       "linkedInLink": "https://www.linkedin.com/in/jammy-laird-2116a1125",
       "aboutMe": "I believe coding can solve the problems of the world through common sense innovation...Pancakes ",
-      "professionalPic": "",
-      "personalityPic": ""
+      "professionalPic": "img/pic/2016_11_29_C15_0614_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0628_T.jpg"
     }
   ]
 }

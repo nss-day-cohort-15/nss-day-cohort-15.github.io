@@ -89,6 +89,8 @@ body {
 .person-tile img {
   display: block;
   width: 100%;
+  max-height: 363.75px;
+  overflow: hidden;
 }
 
 .person-tile hr {
@@ -136,6 +138,10 @@ body {
   margin-bottom: 20px;
 }
 
+#group-photo {
+  display: block;
+  margin: 0 auto;
+}
 
 footer {
   font-family: 'Open Sans', sans-serif;
