@@ -32,19 +32,15 @@ $(document).ready(function () {
     });
   }
 
-  function generatePlaceholderAvatar(index) {
-    return "https://api.adorable.io/avatars/200/nss-cohort-15" + index;
-  }
-
   function generateCards(peopleArr) {
     return peopleArr.reduce(function(domString, person, i) {
       domString += "<div class='col-sm-6 col-md-4 col-lg-3 person-tile'>" +
                    "<div class='image-container'>" +
-                      "<img class='person-image' src='" + /* Replace this with professional pic --> */ generatePlaceholderAvatar(i) +
+                      "<img class='person-image' src='" + person.professionalPic +
                         "' alt='" + person.name + "''>" +
                       "<div class='person-bio'><span>" + person.aboutMe + "</span></div>" +
                    "</div>" +
-                   "<h3>" + person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1] + "</h3>" +
+                   "<h3>" + person.name.split(" ")[0] + " " + person.name.split(" ")[1] + " " + person.name.split(" ")[2] + "</h3>" +
                    "<hr>" +
                    "<div class='tile--icons'>" +
                        "<a href='" + person.githubLink + "' target='_blank'>" +
