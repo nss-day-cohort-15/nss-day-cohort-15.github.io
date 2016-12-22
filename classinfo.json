@@ -1,6 +1,15 @@
 {
   "classInfo": [
     {
+      "name": "Casey Reed",
+      "githubLink": "https://github.com/caseywreed",
+      "portfolioLink": "http://casey-reed.com",
+      "linkedInLink": "https://www.linkedin.com/in/casey-reed-35164612b",
+      "aboutMe": "Nashville-based developer with an eye for UI/UX, clean code, whiteboard teaching, and rare vinyl records from the 1980s.",
+      "professionalPic": "img/pic/2016_11_29_C15_0428_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0413_T.jpg"
+    },
+    {
       "name": "Grant Regnier",
       "githubLink": "https://github.com/Jgregnier",
       "portfolioLink": "",
@@ -8,15 +17,6 @@
       "aboutMe": "I'm a motivated and young developer with a particular interest in C# and .NET looking for opportunity. Amateur apologist and theologian.",
       "professionalPic": "img/pic/2016_11_29_C15_0363_T.jpg",
       "personalityPic": "img/pic/2016_11_29_C15_0347_T.jpg"
-    },
-    {
-      "name": "Matt Kraatz",
-      "githubLink": "https://github.com/MattKraatz",
-      "portfolioLink": "http://MattKraatz.com",
-      "linkedInLink": "https://www.linkedin.com/in/MattKraatz",
-      "aboutMe": "Part genre-agnostic music enthusiast, part business intelligence nerd, I left a successful career in sales operations to join NSS and haven't looked back since.",
-      "professionalPic": "img/pic/2016_11_29_C15_0251_T.jpg",
-      "personalityPic": "img/pic/2016_11_29_C15_0241_T.jpg"
     },
     {
       "name": "Garrett Vangilder",
@@ -46,15 +46,6 @@
       "personalityPic": "img/pic/2016_11_29_C15_0100_T.jpg"
     },
     {
-      "name": "Casey Reed",
-      "githubLink": "https://github.com/caseywreed",
-      "portfolioLink": "http://casey-reed.com",
-      "linkedInLink": "https://www.linkedin.com/in/casey-reed-35164612b",
-      "aboutMe": "Nashville-based developer with an eye for UI/UX, clean code, whiteboard teaching, and rare vinyl records from the 1980s.",
-      "professionalPic": "img/pic/2016_11_29_C15_0428_T.jpg",
-      "personalityPic": "img/pic/2016_11_29_C15_0413_T.jpg"
-    },
-    {
       "name": "Charles (Jamie) Duke",
       "githubLink": "https://github.com/JamsDuke",
       "portfolioLink": "http://jamsduke.com",
@@ -62,6 +53,15 @@
       "aboutMe": "Arizona transplant with a love for all things green and arboreal. Formerly employed by a home healthcare company, I came to NSS to magnify my interests in crafting technology.",
       "professionalPic": "img/pic/2016_11_29_C15_0032_T.jpg",
       "personalityPic": "img/pic/2016_11_29_C15_0041_T.jpg"
+    },
+    {
+      "name": "Matt Kraatz",
+      "githubLink": "https://github.com/MattKraatz",
+      "portfolioLink": "http://MattKraatz.com",
+      "linkedInLink": "https://www.linkedin.com/in/MattKraatz",
+      "aboutMe": "Part genre-agnostic music enthusiast, part business intelligence nerd, I left a successful career in sales operations to join NSS and haven't looked back since.",
+      "professionalPic": "img/pic/2016_11_29_C15_0251_T.jpg",
+      "personalityPic": "img/pic/2016_11_29_C15_0241_T.jpg"
     },
     {
       "name": "Chris Smalley",
