@@ -6,11 +6,13 @@ body {
 
 #logo {
   margin: 0 auto;
-  margin-top: 15vh;
+  margin-top: -20vh;
   max-width: 80%;
 }
 
 .top-content--header {
+  background-image: url('img/pic/2016_11_29_GC15_0070_T.jpg');
+  background-size: cover;
   background-color: rgb(43, 133, 157);
   height: 100vh;
   width: 100vw;
@@ -50,7 +52,7 @@ body {
 }
 
 #about-us {
-  color: #215966;
+  color: #fff;
   font-size: 5em;
   margin: 0 auto;
   cursor: pointer;
@@ -136,11 +138,6 @@ body {
   justify-content: center;
   max-height: 100px;
   margin-bottom: 20px;
-}
-
-#group-photo {
-  display: block;
-  margin: 0 auto;
 }
 
 footer {
