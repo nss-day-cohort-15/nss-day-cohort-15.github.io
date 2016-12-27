@@ -1,11 +1,11 @@
 $(document).ready(function () {
 
   // Click-to-scroll for animated arrow
-  $('#about-us').click(function () {
-      $('html,body').animate({
-          scrollTop: $(".meet-us--tiles").offset().top},
-          'slow');
-  });
+  // $('#about-us').click(function () {
+  //     $('html,body').animate({
+  //         scrollTop: $(".meet-us--tiles").offset().top},
+  //         'slow');
+  // });
 
   // XHR to load class info from json file
   function getClassFromJson() {
