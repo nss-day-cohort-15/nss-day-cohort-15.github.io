@@ -6,7 +6,7 @@ body {
 
 #logo {
   margin: 0 auto;
-  margin-top: -20vh;
+  margin-top: -60vh;
   max-width: 80%;
 }
 
@@ -18,7 +18,7 @@ body {
   width: 100vw;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .bounce {
@@ -90,9 +90,10 @@ body {
 
 .person-tile img {
   display: block;
-  width: 100%;
+  max-width: 242.5px;
   max-height: 363.75px;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 .person-tile hr {
