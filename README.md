@@ -43,6 +43,6 @@ Welcome from the graduates of Nashville Software School's Day Cohort 15! We've s
 ### We can't wait to meet you!
 
 <div>
-  <a href="https://nss-day-cohort-15.github.io"><img align="center" src="img/cohort15.svg"></a>
+  <a href="https://nss-day-cohort-15.github.io"><img align="center" src="img/pic/2016_11_29_GC15_0070_T.jpg"></a>
 </div>
 

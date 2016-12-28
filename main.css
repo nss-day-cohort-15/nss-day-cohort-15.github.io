@@ -240,20 +240,3 @@ footer a {
   text-align: center;
 }
 
-/*@media (max-width: 924px) {
-
-  #header-wrap {
-    height: 100vh;
-    width: 100vw;
-  }
-  .top-content--header {
-  background-image: url('img/pic/2016_11_29_GC15_0070_T.jpg');
-  background-size: cover;
-  background-color: rgb(43, 133, 157);
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}*/
-/*}*/
