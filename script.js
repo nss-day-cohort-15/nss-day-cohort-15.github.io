@@ -1,11 +1,11 @@
 $(document).ready(function () {
 
   // Click-to-scroll for animated arrow
-  $('#about-us').click(function () {
-      $('html,body').animate({
-          scrollTop: $(".meet-us--tiles").offset().top},
-          'slow');
-  });
+  // $('#about-us').click(function () {
+  //     $('html,body').animate({
+  //         scrollTop: $(".meet-us--tiles").offset().top},
+  //         'slow');
+  // });
 
   // XHR to load class info from json file
   function getClassFromJson() {
@@ -38,9 +38,9 @@ $(document).ready(function () {
                    "<div class='image-container'>" +
                       "<img class='person-image' src='" + person.professionalPic +
                         "' alt='" + person.name + "''>" +
-                      "<div class='person-bio'><span>" + person.aboutMe + "</span></div>" +
+                      "<div class='person-bio'>" + person.aboutMe + "</div>" +
                    "</div>" +
-                   "<h3>" + person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1] + "</h3>" +
+                   "<h3>" + person.name.split(" ")[0] + " " + person.name.split(" ")[1] + " " + person.name.split(" ")[2] + "</h3>" +
                    "<hr>" +
                    "<div class='tile--icons'>" +
                        "<a href='" + person.githubLink + "' target='_blank'>" +
