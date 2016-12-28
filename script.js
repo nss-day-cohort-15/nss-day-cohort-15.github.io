@@ -38,7 +38,7 @@ $(document).ready(function () {
                    "<div class='image-container'>" +
                       "<img class='person-image' src='" + person.professionalPic +
                         "' alt='" + person.name + "''>" +
-                      "<div class='person-bio'><span>" + person.aboutMe + "</span></div>" +
+                      "<div class='person-bio'>" + person.aboutMe + "</div>" +
                    "</div>" +
                    "<h3>" + person.name.split(" ")[0] + " " + person.name.split(" ")[1] + " " + person.name.split(" ")[2] + "</h3>" +
                    "<hr>" +
