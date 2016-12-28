@@ -13,6 +13,8 @@ body {
 .top-content--header {
   background-image: url('img/pic/2016_11_29_GC15_0070_T.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   background-color: rgb(43, 133, 157);
   height: 100vh;
   width: 100vw;
@@ -90,7 +92,7 @@ body {
 
 .person-tile img {
   display: block;
-  width: 100%;
+  margin: 0 auto;
   max-height: 363.75px;
   overflow: hidden;
 }
@@ -110,7 +112,7 @@ body {
 .tile--icons a,
 .tile--icons img,
 .tile--icons span {
-  max-width: 50px;
+  width: 50px;
   display: block;
 }
 
@@ -201,4 +203,32 @@ footer a {
   font-weight: 200;
   text-shadow: 0 1px 1px rgba(0,0,0,.85);
   font-family: 'Open Sans', sans-serif;
+}
+
+@media (max-width: 920px) {
+  .top-content--header {
+    max-height: 80vh;
+  }
+
+  .person-tile {
+    max-width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 720px) {
+  #logo {
+    margin-top: -10vh;
+  }
+
+  .top-content--header {
+    max-height: 65vh;
+  }
+}
+
+@media (max-width: 568px) {
+  .top-content--header {
+    max-height: 55vh;
+  }
 }
