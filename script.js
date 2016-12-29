@@ -42,7 +42,7 @@ $(document).ready(function () {
                    "</div>" +
                    "<h3>";
       if (person.name.includes("(")) {
-        domString += person.name;
+        domString += person.name.split(") ")[0] + ")<br/>" + person.name.split(") ")[1];
       } else {
         domString += person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1];
       }
