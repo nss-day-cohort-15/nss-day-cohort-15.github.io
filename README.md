@@ -30,19 +30,19 @@ Welcome from the graduates of Nashville Software School's Day Cohort 15! We've s
 
 ## Our instruction team:
 
-[Joe Shepherd](https://github.com/JoeShep)  
-[Scott Humphries](https://github.com/sscotth)  
-[Steve Brownlee](https://github.com/stevebrownlee)  
-[Brenda Long](https://github.com/brendalong)  
-[Greg Korte](https://github.com/gregkorte)  
-[Mathew Ostrander](https://github.com/MAOstrander)  
-[Ryan Tanay](https://github.com/NewEvolution)  
-[Denise Tinsley](https://github.com/dtinsley333)  
-[Christina Young](https://github.com/ChristinaJYoung)  
+[Joe Shepherd](https://github.com/JoeShep)
+[Scott Humphries](https://github.com/sscotth)
+[Steve Brownlee](https://github.com/stevebrownlee)
+[Brenda Long](https://github.com/brendalong)
+[Greg Korte](https://github.com/gregkorte)
+[Mathew Ostrander](https://github.com/MAOstrander)
+[Ryan Tanay](https://github.com/NewEvolution)
+[Denise Tinsley](https://github.com/dtinsley333)
+[Christina Young](https://github.com/ChristinaJYoung)
 
 ### We can't wait to meet you!
 
 <div>
-  <a href="https://nss-day-cohort-15.github.io"><img align="center" src="img/classfun.jpg"></a>
+  <a href="https://nss-day-cohort-15.github.io"><img align="center" src="img/pic/2016_11_29_GC15_0070_T.jpg"></a>
 </div>
 
