@@ -29,7 +29,32 @@ $(document).ready(function () {
       var cardString = generateCards(infoArr);
 
       attachCardsToDOM(cardString);
+      // Auto-fix the bio div size
+      shrinkPersonBioDiv();
+      // Also resize them if the size of the browser changes
+      window.addEventListener('resize', shrinkPersonBioDiv, true);
     });
+  }
+
+  function shrinkPersonBioDiv() {
+    // This will literally wait until the first image is loaded.
+    // Guys, this is crazy.
+    // Javascript 😍
+    var img = new Image();
+    var firstImage = document.querySelector('.person-image');
+
+    img.onload = function(){
+      var allPersonBios = document.querySelectorAll('.person-bio');
+      var firstImage = document.querySelector('.person-image');
+      var imageWidth = firstImage.offsetWidth;
+      var marginValue = firstImage.offsetLeft;
+      allPersonBios.forEach(function (bio) {
+        bio.style.width = imageWidth + 'px';
+        bio.style.margin = '0 ' + marginValue + 'px';
+      });
+    }
+
+    img.src = firstImage.src;
   }
 
   function generateCards(peopleArr) {
