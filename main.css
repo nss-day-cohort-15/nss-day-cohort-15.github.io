@@ -54,6 +54,8 @@ body {
 }
 
 #about-us {
+  text-shadow: 0 2px 2px #000;
+  display: block;
   color: #fff;
   font-size: 5em;
   margin: 0 auto;
