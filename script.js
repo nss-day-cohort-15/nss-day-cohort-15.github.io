@@ -7,6 +7,16 @@ $(document).ready(function () {
           'slow');
   });
 
+function checkWhitespace(name) {
+  var counter = 0;
+  var name = name.split('');
+  name.forEach(function(char){
+    if (char === " ") {
+    counter = counter + 1;
+    }
+  })
+  return counter;
+}
   // XHR to load class info from json file
   function getClassFromJson() {
     return new Promise(function (resolve, reject) {
@@ -43,7 +53,13 @@ $(document).ready(function () {
                    "<h3>";
       if (person.name.includes("(")) {
         domString += person.name.split(") ")[0] + ")<br/>" + person.name.split(") ")[1];
-      } else {
+      } 
+
+      else if (checkWhitespace(person.name) > 2) {
+        domString += person.name.split(" ")[0] + " " + person.name.split(" ")[1] + "<br/>" + person.name.split(" ")[2] + " " + person.name.split(" ")[3];
+      }
+
+      else {
         domString += person.name.split(" ")[0] + "<br/>" + person.name.split(" ")[1];
       }
       domString += "</h3>" +
